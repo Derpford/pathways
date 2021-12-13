@@ -137,22 +137,50 @@ As an example, a Blaze added to the Knight Path from the character creation sect
 
 In this case, you would be able to trigger Selfless Valor any time you're rolling with STR as a bonus, even on defense.
 
-Work with the GM to determine the cost of the Blaze. The following table is a guideline for what kinds of effects are available and what kinds of costs are appropriate for them:
+Work with the GM to determine the cost of the Blaze. 
 
-|SP Cost|OR|Stat Cost|Effect|
+The following tables are a guideline for what kinds of effects are available and what kinds of costs are appropriate for them:
+
+### Stat Boosts & Bonus Damage
+
+|Cost|OR|alt. Cost|Effect|
 |---|---|---|---|
-|1 SP||-1 until next turn|Temporary -1 to a target stat|
-|1 SP||-1 until next turn|Add a d4|
-|2 SP||-2 until next turn|Add a d6|
-|3 SP||-1 until end of conflict|Add a d8|
-|3 SP||-2 until end of conflict|Add +1 Hit|
-|1 SP||-1 until end of conflict|Each additional +1 Hit after the first|
-|4 SP||-3 until end of conflict|Add a d10|
-|5 SP||-4 until end of conflict|Add a d12|
-|10 SP||-5 until end of conflict|Add a d20|
+|1 SP||-1 stat penalty until next turn*|Temporary -1 to a target stat|
+|1 SP||-1 stat penalty until next turn|Add a d4|
+|2 SP||-2 stat penalty until next turn|Add a d6|
+|3 SP||-1 stat penalty until end of conflict|Add a d8|
+|3 SP||-2 stat penalty until end of conflict|Add +1 Hit|
+|1 SP||-1 stat penalty until end of conflict|Each additional +1 Hit after the first|
+|4 SP||-3 stat penalty until end of conflict|Add a d10|
+|5 SP||-4 stat penalty until end of conflict|Add a d12|
+|10 SP||-5 stat penalty until end of conflict|Add a d20|
 |10 SP||N/A|Add another stat|
 
-"Until next turn" means until you take your next turn. "Until end of conflict" means until you resolve whatever conflict you are currently part of--a good rule of thumb is that if you can sit down for a minute or two without being interrupted by something dangerous or exciting, the conflict has ended.
+*"Until next turn" means until you take your next turn. "Until end of conflict" means until you resolve whatever conflict you are currently part of--a good rule of thumb is that if you can sit down for a minute or two without being interrupted by something dangerous or exciting, the conflict has ended. You may take a penalty to any stat as an activation cost.
+
+### Damage Avoidance, Defense, And Healing
+
+| cost                                  | OR   | Alt. cost                         | Effect                                            |
+| ------------------------------------- | ---- | --------------------------------- | ------------------------------------------------- |
+| Roll X vs. Y *                        |      | N/A                               | Prevent incoming SP damage to yourself or an ally |
+| 2 SP                                  |      | -2 stat penalty until end of turn | Gain 1 Armor                                      |
+| 3 SP                                  |      | N/A                               | Heal an ally for 1                                |
+| 1 SP                                  |      | N/A                               | Each additional +1 healing after the first        |
+| -2 stat penalty until end of conflict |      | N/A                               | Grant yourself or an ally +3 SP                   |
+
+*This is an opposed roll, with the attacker opposing you. You may choose both the stat you use as a bonus and the stat your opponent uses as a bonus for this roll.
+
+### Mix-Ups And Strange Tricks
+
+| Cost                                  | or   | alt. cost                             | effect                                                       |
+| ------------------------------------- | ---- | ------------------------------------- | ------------------------------------------------------------ |
+| 5 SP                                  |      | -4 stat penalty until end of conflict | One opponent defends with X instead of their normal defense until their next turn.* |
+| 1 SP                                  |      | -1 stat penalty until next turn       | In your next attack, you roll X instead of your normal attack stat, and your opponent rolls Y instead of their normal defense stat.* |
+| 4 SP                                  |      | -3 stat penalty until end of conflict | A target enemy cannot use a Path of your choice until their next turn. |
+| -2 stat penalty until end of conflict |      | N/A                                   | Deal 1 HP damage to target enemy.                            |
+| -1 stat penalty until end of conflict |      | N/A                                   | Each additional 1 HP damage after the first                  |
+
+*These effects prevent the target from using a Path or Blazes for this attack.
 
 ## Gaining new Paths
 
