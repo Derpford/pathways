@@ -49,7 +49,7 @@ One must always deal with uncertainty in life. In this game, it takes the form o
 By default, when rolling dice, you roll a d8. Under certain circumstances, you may roll additional dice, which may be of other sizes; this mostly applies to Blazes and Equipment (more on those in their own sections). For now, bear in mind that the d8 is the standard dice size.
 
 ## When Attacking
-Your character will face adversaries. When they do, you may wish to fight those enemies, and will likely use a Path to do so. Fighting your foes does not always mean physical combat; sometimes you are competing in a sport of some kind, or partaking in a battle of wits, or trying to come up with a particularly well-written diss track on the fly. Whatever form conflict takes, characters take turns *attacking their target's SP* and then *using their SP to deal HP damage*.
+Your character will face adversaries. When they do, you may wish to fight those enemies, and will likely use a Path to do so. Fighting your foes does not always mean physical combat; sometimes you are competing in a sport of some kind, or partaking in a battle of wits, or trying to come up with a particularly well-written diss track on the fly. Whatever form conflict takes, characters take turns either *attacking their target's SP* or *using their SP to deal HP damage*.
 
 To Attack a target's SP, choose a Path. The Path will tell you what dice and stat you attack with, and what dice and stat your opponent defends with. For instance, if we used the Knight path from the character creation section, we would roll 1d8 and add our STR to it, and our target would roll 1d8 and add their CON to it. Your opponent may get to roll additional dice if they have an applicable Path (see the section on Defending below).
 
