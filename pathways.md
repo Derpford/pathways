@@ -42,7 +42,7 @@ Your character will also likely need a name. While some games advise you to pick
 
 You may also wish to take notes on other details, like a character's physical appearance, their preferred weapon, the people they associate with and the causes they fight for. Feel free to do so, but be sure to leave space for keeping track of things like important objects, new Paths, and other bookkeeping.
 
-# Rolling Dice
+# Rolling Dice and Settling Conflicts
 
 One must always deal with uncertainty in life. In this game, it takes the form of dice. You will want a full set of dice--six-sided through 20-sided--but early on, you'll primarily be using the d6 and the d8.
 
