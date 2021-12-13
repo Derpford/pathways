@@ -141,18 +141,18 @@ Work with the GM to determine the cost of the Blaze. The following table is a gu
 
 |SP Cost|OR|Stat Cost|Effect|
 |---|---|---|---|
-|1 SP||Temporary -1|Temporary -1 to a target stat|
-|1 SP||Temporary -1|Add a d4|
-|2 SP||Temporary -2|Add a d6|
-|3 SP||Permanent* -1|Add a d8|
-|3 SP||Permanent* -2|Add +1 Hit|
-|1 SP||Permanent* -1|Each additional +1 Hit after the first|
-|4 SP||Permanent* -3|Add a d10|
-|5 SP||Permanent* -4|Add a d12|
-|10 SP||Permanent* -5|Add a d20|
+|1 SP||-1 until next turn|Temporary -1 to a target stat|
+|1 SP||-1 until next turn|Add a d4|
+|2 SP||-2 until next turn|Add a d6|
+|3 SP||-1 until end of conflict|Add a d8|
+|3 SP||-2 until end of conflict|Add +1 Hit|
+|1 SP||-1 until end of conflict|Each additional +1 Hit after the first|
+|4 SP||-3 until end of conflict|Add a d10|
+|5 SP||-4 until end of conflict|Add a d12|
+|10 SP||-5 until end of conflict|Add a d20|
 |10 SP||N/A|Add another stat|
 
-\* Here, "permanent" means that the penalty stays until the end of the encounter.
+"Until next turn" means until you take your next turn. "Until end of conflict" means until you resolve whatever conflict you are currently part of--a good rule of thumb is that if you can sit down for a minute or two without being interrupted by something dangerous or exciting, the conflict has ended.
 
 ## Gaining new Paths
 
