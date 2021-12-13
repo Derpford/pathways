@@ -31,6 +31,8 @@ Each Path is defined by the following traits:
 
 These are the two most important elements; this is all you will have at the start. Leave some extra space around each Path for future advancement.
 
+**Unless the GM gives you permission, you cannot use BAL as the bonus stat for a Path.** You may, however, use BAL as the 'target' stat.
+
 As an example, a Knight Path might look something like this:
 > Knight
 > You attack with 1d8+STR. The target defends with 1d8+CON.
