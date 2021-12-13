@@ -101,7 +101,7 @@ When attacking an inanimate object, you are not considered to be in combat (unle
 
 ## Rolling without a Path
 
-Sometimes you may want to use one of your stats without an appropriate Path to support it. In these cases, you roll 1d8 plus that stat as normal, but two caveats apply: firstly, your target may choose any stat to defend with--and will likely choose one that grants them use of a Path and additional dice--and secondly, you cannot score Crippling Blows against your target when you are rolling without a Path.
+Sometimes you may want to use one of your stats without an appropriate Path to support it. In these cases, you roll 1d8 plus that stat as normal, but two caveats apply: firstly, your target may choose any stat to defend with--and will likely choose one that grants them use of a Path and additional dice--and secondly, you cannot score Crescendos against your target when you are rolling without a Path.
 
 # Advancement
 
