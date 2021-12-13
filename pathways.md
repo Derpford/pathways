@@ -75,6 +75,10 @@ Certain pieces of equipment may add "Armor". This is subtracted from the damage 
 
 Some very powerful equipment may instead grant "Resistance". Resistance increases the cost of damage against that target by 1 SP. Each piece of equipment can only grant 1 Resistance, and no piece of equipment grants both Armor and Resistance. As an example, wearing a single piece of equipment with Resistance would mean that enemies have to spend 3 SP for each point of damage they want to deal to you. This may seem like a small effect, but it adds up rapidly.
 
+## Supporting Your Allies
+
+You may *also* transfer your SP to an ally. **This also does not require a roll.** Simply declare that you are 'supporting' an ally, and give them some of your SP. SP is transferred at a 1-to-1 rate, up to an amount equal to your BAL. In other words, a character who intends to play a support role in conflicts should spend points improving their BAL so that they may act as a more effective anchor for the party.
+
 ## Cross Paths
 
 Working together can create openings where a lone warrior cannot succeed. When you combine your efforts with another party member to achieve a goal, this is known as a "Cross Path", or X-Path.
