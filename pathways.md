@@ -22,7 +22,7 @@ In addition, you should make room for three pieces of Equipment, as well as for 
 
 ## Paths and Blazes
 
-Finally, the most important part of character creation is picking your PATHS. You will start with 2 Paths, which define what form your character's struggle takes, both in and out of combat.
+Finally, the most important part of character creation is picking your PATHS. You will start with 2 Paths, which define what form your character's struggle takes, both in and out of combat. A good Path is not only useful on the battlefield, but also provides benefits outside of combat!
 
 Each Path is defined by the following traits:
 1. The name of the Path;
