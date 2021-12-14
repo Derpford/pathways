@@ -30,7 +30,7 @@ Each Path is defined by the following traits:
 3. What dice you roll when attacking with this Path, and
 4. What stat and dice you use as a bonus when rolling to defend against attacks with this Path.
 
-You may pick any stat other than BAL for your bonus stat (unless the GM says otherwise), and you may pick any stat other than BAL to defend with. As for what dice you roll, in most cases you will use 1d8 for both your attack dice and your defense dice. For one of your starting Paths, you may choose to replace one d8 with a d6 to either A) replace the otehr d8 with a d12, or B) gain one Blaze for that Path.
+You may pick any stat other than BAL for your bonus stat (unless the GM says otherwise), and you may pick any stat other than BAL to defend with. As for what dice you roll, in most cases you will use 1d8 for both your attack dice and your defense dice. For one of your starting Paths, you may choose to replace one d8 with a d6 to either A) replace the other d8 with a d12, or B) gain one Blaze for that Path.
 
 Your starting Paths are the two most important elements; they are the most powerful thing you start with. Leave some extra space around each Path for future advancement. You may wish to keep your Paths on separate sheets of paper, or on index cards, to make it easier to organize and expand your Paths.
 
@@ -40,7 +40,7 @@ As an example, a Knight Path might look something like this:
 > Knight
 > You attack with 1d8+STR. You defend with 1d8+CON.
 
-Paths also grant certain other effects, with approval from the GM, based on what they represent. A Knight, for instance, would reasonably have a horse, and would also know some people among the nobility. A Blacksmith might be able to melt armor and blades down into scrap metal, or know how to sharpen a sword for maximum effect. A Thief obviously would carry a set of lockpicking tools, and knows how to use them. You are limited only by your imagination (and what the GM says is reasonable for a level 1 adventurer!)
+Paths also grant certain other effects and benefits, with approval from the GM, based on what they represent. A Knight, for instance, would reasonably have a horse, and would also know some people among the nobility. A Blacksmith might be able to melt armor and blades down into scrap metal, or know how to sharpen a sword for maximum effect. That Blacksmith would also be carrying a hammer and tongs, and it's obvious that a Thief would carry a set of lockpicking tools (and know how to use them). You are limited only by your imagination (and what the GM says is reasonable for a level 1 adventurer!). See the section on "Background Objects" under "Equipment and Other Items of Importance" for more details.
 
 ## The Finishing Touches
 Your character will also likely need a name. While some games advise you to pick a name early in the process, I find it easier to pick a good name once I already have a good idea of who the character is.
@@ -53,18 +53,27 @@ One must always deal with uncertainty in life. In this game, it takes the form o
 
 By default, when rolling dice, you roll a d8. Under certain circumstances, you may roll additional dice, which may be of other sizes; this mostly applies to Blazes and Equipment (more on those in their own sections). For now, bear in mind that the d8 is the standard dice size.
 
-## When Attacking
-Your character will face adversaries. When they do, you may wish to fight those enemies, and will likely use a Path to do so. Fighting your foes does not always mean physical combat; sometimes you are competing in a sport of some kind, or partaking in a battle of wits, or trying to come up with a particularly well-written diss track on the fly. Whatever form conflict takes, characters take turns either *attacking their target's SP* or *using their SP to deal HP damage*. You only roll dice while attacking someone's SP.
+## Conflict
+
+Your character will face adversaries. When they do, you may wish to fight those enemies, and will likely use a Path to do so. Fighting your foes does not always mean physical combat; sometimes you are competing in a sport of some kind, or partaking in a battle of wits, or trying to come up with a particularly well-written diss track on the fly. This is represented by two resources: Stanza Points (or SP), which represent the tug of war between you and your opponents, and Hit Points (HP), which represent your character's ability to weather serious blows.
+
+Running out of HP will leave you *incapacitated* in some form or another. The form this takes depends on what kind of conflict you were in, but once incapacitated, you are no longer able to participate in the conflict. Perhaps you have been publicly embarrassed and must flee to save face, or maybe you have suffered a mortal wound and cannot risk continuing to fight--but either way, you are unable to fight until you've had some time to rest and recover. The GM will decide how long this takes, but broadly speaking, half an hour of recovery (and first aid, if necessary) should be enough
+
+How victory is achieved depends on what you are fighting, and how you are fighting it. While wild animals or evil villains will likely not stop until their HP is depleted, more intelligent enemies may surrender once their SP is depleted, recognizing that you have the upper hand. In addition, friendly competition will usually end when one side's SP is depleted, for safety's sake.
+
+### When Attacking
+
+Whatever form conflict takes, characters take turns either *attacking their target's SP* or *using their own SP to deal HP damage*. You only roll dice while attacking someone's SP.
 
 To Attack a target's SP, choose a Path. The Path will tell you what dice and stat you attack with. For instance, if we used the Knight path from the character creation section, we would roll 1d8 and add our STR to it. Our opponent then chooses a Path to defend with.
 
 At this point, before the dice are rolled, both you (the attacker) and your target (the defender) get a chance to trigger Blazes. These can do things like add dice to your rolls (i.e., +1d8), improve the result if the attack hits (written as +X Hit), get additional stats involved (i.e., +CHA), or trigger more complex effects. For more on Blazes, check the Advancement section.
 
-Finally, roll the bones. Compare the sum of your dice and stats to the sum of your opponent's dice and stats. If the attacker's dice are higher, the attacker gains SP equal to the difference, and the defender loses SP equal to the difference. Bear in mind that you cannot have more SP than your SP Cap, and cannot have less SP than zero. 
+Finally, roll the dice. Compare the sum of your dice and stats to the sum of your opponent's dice and stats. If the attacker's dice are higher, the attacker gains SP equal to the difference, and the defender loses SP equal to the difference. Bear in mind that you cannot have more SP than your SP Cap, and cannot have less SP than zero. 
 
 If an attack would do SP damage to a character who has no SP, this triggers a Crescendo (also known as a Critical). This has two effects: first, it applies a -1 penalty to the stats the target used in defense for the rest of the encounter, and second, everyone on your team gains SP equal to the roll difference. Once a character has been struck with a Crescendo, they cannot be affected by another Crescendo until they've taken a turn.
 
-## When Defending
+### When Defending
 You will find yourself on the receiving end of attacks. However, if you are defending with a stat that you have a matching Path for, you can improve your defense with it, as well as trigger Blazes.
 
 When you are attacked, your attacker will tell you what stat you are using to defend. For instance, an enemy might use this Path to attack our Knight:
@@ -78,18 +87,22 @@ Normally we would have to pick between at least two Paths to defend with, but fo
 
 In this case, our opponent would roll 1d12+DEX and we'd roll 1d8+CON. If we had any Blazes, we could trigger them before the roll (see the Advancement section below).
 
-## Dealing HP Damage
+### Dealing HP Damage
 Instead of a regular SP attack, you may choose to cash in your SP to do damage to a target's HP. **This does not require a roll**. Simply declare that you are attacking the target's HP, and spend 2 SP per point of damage you want to inflict.
 
 Certain pieces of equipment may add "Armor". This is subtracted from the damage you do when targeting an enemy's HP. You can also think of it as requiring you to spend a certain amount of damage up-front before doing actual damage. For instance, a piece of equipment that has Armor 1 would subtract 1 damage from any HP attack, meaning you'd need to spend at least 4 SP to cause permanent damage.
 
 Some very powerful equipment may instead grant "Resistance". Resistance increases the cost of damage against that target by 1 SP. Each piece of equipment can only grant 1 Resistance, and no piece of equipment grants both Armor and Resistance. As an example, wearing a single piece of equipment with Resistance would mean that enemies have to spend 3 SP for each point of damage they want to deal to you. This may seem like a small effect, but it adds up rapidly.
 
-## Supporting Your Allies
+## Special Maneuvers
 
-If  you have at least 1 point of BAL, you may *also* transfer your SP to an ally. **This also does not require a roll.** Simply declare that you are 'supporting' an ally, and give them some of your SP. SP is transferred at a 1-to-1 rate, up to an amount equal to your BAL. In other words, a character who intends to play a support role in conflicts should spend points improving their BAL so that they may act as a more effective anchor for the party.
+The following are special actions you may take in place of an SP attack or dealing HP damage.
 
-## Cross Paths
+### Supporting Your Allies
+
+If  you have at least 1 point of BAL, you may transfer your SP to an ally. **This also does not require a roll.** Simply declare that you are 'supporting' an ally, and give them some of your SP. SP is transferred at a 1-to-1 rate, up to an amount equal to your BAL. In other words, a character who intends to play a support role in conflicts should spend points improving their BAL so that they may act as a more effective anchor for the party.
+
+### Cross Paths
 
 Working together can create openings where a lone warrior cannot succeed. When you combine your efforts with another party member to achieve a goal, this is known as a "Cross Path", or X-Path.
 
@@ -103,13 +116,13 @@ This has potential to not only do more SP damage than a regular attack, but also
 
 You will deal with inanimate objects and other skill challenges in the same way that you deal with foes on the battlefield. Instead of an active opponent who fights back, you will "attack" the challenge itself, which will have stats, HP, and Paths as determined by the GM. You can use any Path to deal with an obstacle, so long as the GM rules it acceptable.
 
-To defeat an obstacle, deplete its HP. As per usual, you spend 2 SP to remove 1 HP. The GM will tell you how much HP the obstacle has. They are not required to tell you anything else about the obstacle, but they should take care to give the obstacle stats that make sense given their description of it.
+To defeat an obstacle, deplete its HP. As per usual, you spend 2 SP to remove 1 HP. The GM will tell you how much HP the obstacle has. They are not required to tell you anything else about the obstacle, but they should take care to give the obstacle stats that make sense given their description of it. Note that inanimate objects cannot surrender, which means that normally, depleting an object's SP does not mean much of anything. You still trigger a Crescendo, though.
 
 When you attack an inanimate object, **it never rolls dice**. Inanimate objects also **cannot attack**, neither to take SP nor to destroy HP. Inanimate objects do not have a will or the ability to fight back, and as such, they are inherently easier to deal with than a moving opponent. Objects *can*, however, have Blazes and SP--and they can trigger a Blaze under the same conditions that any character could. The GM can--and should--use this to create traps and other interesting interactions.
 
 When attacking an inanimate object, you are not considered to be in combat (unless you're trying to attack an object in the middle of a regular fight). As such, you may change your equipment at will, and effects that apply penalties until the end of conflict do not apply those penalties. The GM may rule that your time is limited or that you are in danger at their discretion, however, so don't expect them to let you juggle your items forever if you're currently falling off a cliff.
 
-## Rolling without a Path
+### Rolling without a Path
 
 Sometimes you may want to use one of your stats without an appropriate Path to support it. In these cases, you roll 1d8 plus that stat as normal, but two caveats apply: firstly, your target gains an additional 1d6 in their defense roll--and secondly, you cannot score Crescendos against your target when you are rolling without a Path.
 
@@ -202,7 +215,7 @@ Sometimes, the GM may grant you a Path as a consequence of the story. This shoul
 
 Very rarely, usually for reasons specific to your character, one of your Paths may *change*. **The GM should warn you immediately if something you are about to do has consequences for one of your Paths**. The classic example of this would be a Paladin falling from grace, but there may be many reasons for a Path to change. In any case, when a Path changes, **you lose access to all Blazes from the old Path**, and must start building the new one from scratch. Be sure to keep a copy of your old Path on hand; if for any reason you regain access to it, you immediately regain all of your old Blazes as well.
 
-# Equipment and other Items of importance
+# Equipment and Other Items of Importance
 
 ## Types of objects
 
