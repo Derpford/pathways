@@ -34,7 +34,7 @@ You may pick any stat other than BAL for your bonus stat (unless the GM says oth
 
 Your starting Paths are the two most important elements; they are the most powerful thing you start with. Leave some extra space around each Path for future advancement. You may wish to keep your Paths on separate sheets of paper, or on index cards, to make it easier to organize and expand your Paths.
 
-**Unless the GM gives you permission, you cannot use BAL as the bonus stat for a Path.** You may, however, use BAL as the 'target' stat.
+**Unless the GM gives you permission, you cannot use BAL as the bonus stat for a Path, whether on offense or defense.**
 
 As an example, a Knight Path might look something like this:
 > Knight
