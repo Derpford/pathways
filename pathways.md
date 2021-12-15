@@ -18,7 +18,7 @@ You have 10 points to distribute among these stats. BAL has a special use; it af
 
 In addition, your character starts at level 1. Your character's HP is equal to the sum of all their stats (in other words, 10 at character creation). Your SP Cap is equal to the sum of all your stats, multiplied by 2--so, for a level 1 character, it'll be 20. Your starting SP is equal to half your SP cap, plus your BAL. (You may also think of it as the sum of all your non-BAL stats, plus 2 points for each point of BAL.)
 
-In addition, you should make room for three pieces of Equipment, as well as for a list of any Usable Items you might gather over the course of your journey.
+You should also make room for three pieces of Equipment, as well as for a list of any Usable Items you might gather over the course of your journey.
 
 ## Paths and Blazes
 
@@ -30,7 +30,9 @@ Each Path is defined by the following traits:
 3. What dice you roll when attacking with this Path, and
 4. What stat and dice you use as a bonus when rolling to defend against attacks with this Path.
 
-You may pick any stat other than BAL for your bonus stat (unless the GM says otherwise), and you may pick any stat other than BAL to defend with. As for what dice you roll, in most cases you will use 1d8 for both your attack dice and your defense dice. For one of your starting Paths, you may choose to replace one d8 with a d6 to either A) replace the other d8 with a d12, or B) gain one Blaze for that Path.
+You may pick any stat other than BAL for your bonus stat (unless the GM says otherwise), and you may pick any stat other than BAL to defend with. As for what dice you roll, in most cases you will use 1d8 for both your attack dice and your defense dice. 
+
+For one of your starting Paths, you may choose to replace one d8 with a d6 to gain one Blaze for that Path. See the section on Advancement to learn what you can do with this.
 
 Your starting Paths are the two most important elements; they are the most powerful thing you start with. Leave some extra space around each Path for future advancement. You may wish to keep your Paths on separate sheets of paper, or on index cards, to make it easier to organize and expand your Paths.
 
