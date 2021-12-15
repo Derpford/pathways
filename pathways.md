@@ -16,7 +16,7 @@ Your character is first defined by 7 stats, each of which represents what they r
 
 You have 10 points to distribute among these stats. BAL has a special use; it affects your Starting Stanza Points in combat. You'll learn about how to use Stanza Points in the section on Rolling Dice.
 
-In addition, your character starts at level 1. Your character's HP is equal to the sum of all their stats (in other words, 10 at character creation). Your Starting Stanza Points, or Starting SP, is equal to BAL plus your Level. Your SP Cap is equal to the sum of all your stats, multiplied by 2--so, for a level 1 character, it'll be 20.
+In addition, your character starts at level 1. Your character's HP is equal to the sum of all their stats (in other words, 10 at character creation). Your SP Cap is equal to the sum of all your stats, multiplied by 2--so, for a level 1 character, it'll be 20. Your starting SP is equal to half your SP cap, plus your BAL. (You may also think of it as the sum of all your non-BAL stats, plus 2 points for each point of BAL.)
 
 In addition, you should make room for three pieces of Equipment, as well as for a list of any Usable Items you might gather over the course of your journey.
 
@@ -71,7 +71,13 @@ At this point, before the dice are rolled, both you (the attacker) and your targ
 
 Finally, roll the dice. Compare the sum of your dice and stats to the sum of your opponent's dice and stats. If the attacker's dice are higher, the attacker gains SP equal to the difference, and the defender loses SP equal to the difference. Bear in mind that you cannot have more SP than your SP Cap, and cannot have less SP than zero. 
 
-If an attack would do SP damage to a character who has no SP, this triggers a Crescendo (also known as a Critical). This has two effects: first, it applies a -1 penalty to the stats the target used in defense for the rest of the encounter, and second, everyone on your team gains SP equal to the roll difference. Once a character has been struck with a Crescendo, they cannot be affected by another Crescendo until they've taken a turn.
+### Crescendos
+
+If an attack would do SP damage to a character who has no SP, or would do more SP damage than the amount of SP they have (i.e., 5 SP damage to a character who has 3 SP left), this triggers a Crescendo (also known as a Critical). 
+
+This has three effects: first, the victim loses their next turn; second, everyone on your team gains SP equal to the roll difference; third, the victim regains their starting SP when their turn is skipped. 
+
+Once a character has been struck with a Crescendo, they cannot be affected by another Crescendo until they've successfully taken a turn. You cannot chain-stun your enemies. A wise combatant will use that one-turn stun to finish off that enemy--otherwise, they may use the burst of SP to bounce back.
 
 ### When Defending
 You will find yourself on the receiving end of attacks. However, if you are defending with a stat that you have a matching Path for, you can improve your defense with it, as well as trigger Blazes.
